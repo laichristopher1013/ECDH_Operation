@@ -1,6 +1,7 @@
 #import ECC 
 #ECDH (elliptic curve diffie hellman operation) 
     #gen (generate private key & public key) 
+#example
 
 from ECC_Operation_Script import ECC 
 import random 
