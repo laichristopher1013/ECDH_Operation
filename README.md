@@ -79,7 +79,6 @@ This script simulate the process of ECC operation. It shows how ECC actually wor
     #findn (find the order of the given generated point)
     #add (modadd) 
     #mul (montgomary ladder) 
-
 ```
 To check actual function go: ECC_Operation_Script.py
 
