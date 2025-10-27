@@ -78,7 +78,8 @@ This script simulate the process of ECC operation. It shows how ECC actually wor
     #findN (find the quantity of all the points thats on the curve)
     #findn (find the order of the given generated point)
     #add (modadd) 
-    #mul (montgomary ladder) 
+    #mul (montgomary ladder)
+#example
 ```
 To check actual function go: [ECC_Operation_Script.py](https://github.com/laichristopher1013/ECDH_Operation/blob/main/ECC_Operation_Script.py).
 
@@ -89,6 +90,7 @@ This script simulate the process of ECDH encrytion with the previous script "ECC
 ```
 #import ECC from ECC_Operation_Script
 #ECDH (elliptic curve diffie hellman operation) 
-    #gen (generate private key & public key) 
+    #gen (generate private key & public key)
+#example
 ```
 To check actual function go: [ECDH_Operation_Script.py](https://github.com/laichristopher1013/ECDH_Operation/blob/main/ECDH_Operation_Script.py).
