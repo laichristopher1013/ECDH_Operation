@@ -6,16 +6,21 @@ from ECC_Operation_Script import ECC
 import random 
 
 class DH:
+    #to initialize variable
     def __init__(self, ecc, g):
         self.ecc = ecc 
         self.g = g 
         self.n = self.ecc.findn(self.g) 
     
+    #to generate the public key & private key
     def gen(self): 
+        #private key = random number between 1 to n
         pri_k = random.randint(1, self.n - 1) 
+        #public key = the point that produce by g * private key
         pub_k = self.ecc.mul(self.g, pri_k) 
         return (pri_k, pub_k)
 
+#example
 if __name__ == "__main__":
     g = (5, 1)
     a, b, p = 2, 2, 17
