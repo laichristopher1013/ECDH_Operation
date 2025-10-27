@@ -7,7 +7,7 @@ This whole repository simulate the process of ECDH encryption.
 
 
 ## ECC_Addition_Script 
-This script simulate the process of normal ECC addition `normaladd` and mod addition `modadd`.
+This script simulate the process of normal ECC addition `normaladd`, and mod addition `modadd`.
 
 ```
 #the ecc variable
