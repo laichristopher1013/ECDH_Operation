@@ -65,7 +65,7 @@ def modadd(p1, p2):
 
     return (x3, y3)
 ```
-For more detail go: ECC_Addition_Script.py
+For more detail go: [ECC_Addition_Script.py](https://github.com/laichristopher1013/ECDH_Operation/blob/main/ECC_Addition_Script.py).
 
 
 ## ECC_Operation_Script 
@@ -80,7 +80,7 @@ This script simulate the process of ECC operation. It shows how ECC actually wor
     #add (modadd) 
     #mul (montgomary ladder) 
 ```
-To check actual function go: ECC_Operation_Script.py
+To check actual function go: [ECC_Operation_Script.py](https://github.com/laichristopher1013/ECDH_Operation/blob/main/ECC_Operation_Script.py).
 
 
 ## ECDH_Operation_Script 
@@ -91,4 +91,4 @@ This script simulate the process of ECDH encrytion with the previous script "ECC
 #ECDH (elliptic curve diffie hellman operation) 
     #gen (generate private key & public key) 
 ```
-To check actual function go: ECDH_Operation_Script.py
+To check actual function go: [ECDH_Operation_Script.py](https://github.com/laichristopher1013/ECDH_Operation/blob/main/ECDH_Operation_Script.py).
