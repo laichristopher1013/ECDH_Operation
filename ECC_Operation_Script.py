@@ -7,6 +7,7 @@
     #findn (find the order of the given generated point)
     #add (modadd) 
     #mul (montgomary ladder) 
+#example
 
 class ECC:
     #to initialize variable
