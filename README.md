@@ -1,9 +1,9 @@
 # ECDH_Operation 
 This whole repository simulate the process of ECDH encryption. 
 #### Script: 
-* ECC_Addition_Script
-* ECC_Operation_Script
-* ECDH_Operation_Script
+* [ECC_Addition_Script.py](https://github.com/laichristopher1013/ECDH_Operation/blob/main/ECC_Addition_Script.py).
+* [ECC_Operation_Script.py](https://github.com/laichristopher1013/ECDH_Operation/blob/main/ECC_Operation_Script.py).
+* [ECDH_Operation_Script.py](https://github.com/laichristopher1013/ECDH_Operation/blob/main/ECDH_Operation_Script.py).
 
 
 ## ECC_Addition_Script 
